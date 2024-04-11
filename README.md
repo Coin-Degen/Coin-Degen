@@ -1,4 +1,4 @@
-<div align="center">&nbsp;✨ Chain ✨
+<div align="center">✨ Chain ✨&nbsp;
 <h2 align="center" style="margin-top: 0.1em;">
 <span><img src="https://res.coinpaper.com/coinpaper/bitcoin_btc_logo_62c59b827e.png" alt="Bitcoin logo" title="Bitcoin" height="35"/>
 &nbsp;
