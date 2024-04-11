@@ -7,12 +7,9 @@
  <img src="https://seeklogo.com/images/E/ethereum-logo-EC6CDBA45B-seeklogo.com.png" alt="Ethereum logo" title="Ethereum" height="35" />
 &nbsp;
 </span></h2>
- <h2><a href="https://github.com/CryptoDegen84/My-Web3-Projects-Overview">My Web3 projects Overview</a></h2>
-</div>
- 
-
-
-## 🛠  Technologies and tools
+ <h2></h2>
+</div> 
+## 🛠  Technologies and tools <a href="https://github.com/CryptoDegen84/My-Web3-Projects-Overview">My Web3 projects Overview</a>
 <span><img src="https://img.shields.io/badge/Solidity-282C34?logo=Solidity&logoColor=ddd" alt="Solidity logo" title="Solidity" height="20" />
 &nbsp;
 <img src="https://img.shields.io/badge/Rust-282C34?logo=Rust&logoColor=E34F26" alt="Rust logo" title="Rust" height="20" /></span>
