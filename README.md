@@ -9,6 +9,7 @@
 </span></h2>
  <h2> <a href="https://github.com/CryptoDegen84/My-Web3-Projects-Overview">My Web3 projects Overview</a></h2>
 </div> 
+
 ## 🛠  Technologies and tools
 <span><img src="https://img.shields.io/badge/Solidity-282C34?logo=Solidity&logoColor=ddd" alt="Solidity logo" title="Solidity" height="20" />
 &nbsp;
