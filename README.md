@@ -1,5 +1,5 @@
 <div align="center" ><h1>✨ Chain ✨</h1>
-<h2 align="center" style="margin-top: 0.1em">
+<h2 align="center" style="margin-top:0.1em">
 <span>&nbsp;<img src="https://res.coinpaper.com/coinpaper/bitcoin_btc_logo_62c59b827e.png" alt="Bitcoin logo" title="Bitcoin" height="35"/>
 &nbsp;
 <img src="https://seeklogo.com/images/S/solana-sol-logo-12828AD23D-seeklogo.com.png?v=637944448890000000" alt="Solana logo" title="Solana" height="35" />
@@ -7,9 +7,9 @@
  <img src="https://seeklogo.com/images/E/ethereum-logo-EC6CDBA45B-seeklogo.com.png" alt="Ethereum logo" title="Ethereum" height="35" />
 &nbsp;
 </span></h2>
- <h2></h2>
+ <h2> <a href="https://github.com/CryptoDegen84/My-Web3-Projects-Overview">My Web3 projects Overview</a></h2>
 </div> 
-## 🛠  Technologies and tools <a href="https://github.com/CryptoDegen84/My-Web3-Projects-Overview">My Web3 projects Overview</a>
+## 🛠  Technologies and tools
 <span><img src="https://img.shields.io/badge/Solidity-282C34?logo=Solidity&logoColor=ddd" alt="Solidity logo" title="Solidity" height="20" />
 &nbsp;
 <img src="https://img.shields.io/badge/Rust-282C34?logo=Rust&logoColor=E34F26" alt="Rust logo" title="Rust" height="20" /></span>
