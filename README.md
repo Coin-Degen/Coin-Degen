@@ -7,7 +7,7 @@
  <img src="https://seeklogo.com/images/E/ethereum-logo-EC6CDBA45B-seeklogo.com.png" alt="Ethereum logo" title="Ethereum" height="35" />
 &nbsp;
 </span></h2>
- <h2>[My Web3 projects Overview](https://github.com/CryptoDegen84/My-Web3-Projects-Overview)
+ <h2>[My Web3 projects Overview(https://github.com/CryptoDegen84/My-Web3-Projects-Overview)]</h2>h2>
 </div>
  
 
