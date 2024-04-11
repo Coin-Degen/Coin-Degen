@@ -1,6 +1,6 @@
 <div align="center" ><h1>✨ Chain ✨</h1>
 <h2 align="center" style="margin-top: 0.1em">
-<span><img src="https://res.coinpaper.com/coinpaper/bitcoin_btc_logo_62c59b827e.png" alt="Bitcoin logo" title="Bitcoin" height="35"/>
+&nbsp;<span><img src="https://res.coinpaper.com/coinpaper/bitcoin_btc_logo_62c59b827e.png" alt="Bitcoin logo" title="Bitcoin" height="35"/>
 &nbsp;
 <img src="https://seeklogo.com/images/S/solana-sol-logo-12828AD23D-seeklogo.com.png?v=637944448890000000" alt="Solana logo" title="Solana" height="35" />
 &nbsp;
