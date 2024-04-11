@@ -1,5 +1,5 @@
-<div align="center">CyptoDegen84;
-<h2 style="margin-top: 0.1em;"><br>✨ Chain ✨
+<div align="center">✨ Chain ✨
+<h2 style="margin-top: 0.1em;">
 <span><img src="https://res.coinpaper.com/coinpaper/bitcoin_btc_logo_62c59b827e.png" alt="Bitcoin logo" title="Bitcoin" height="35"/>
 &nbsp;
 <img src="https://seeklogo.com/images/E/ethereum-logo-EC6CDBA45B-seeklogo.com.png" alt="Ethereum logo" title="Ethereum" height="35" />
